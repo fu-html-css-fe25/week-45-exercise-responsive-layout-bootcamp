@@ -26,8 +26,8 @@ Denna gång använder du förslagsvis återigen grid för att styra layouten, me
 
 ## 05 - Media queries Bootcamp - Veckans Code Review Uppgift
 
-Media Queries Bootcamp [hittar du här]().
+Media Queries Bootcamp [hittar du här](https://github.com/fu-html-css-fe25/week-45-exercise-media-queries-bootcamp).
 
 ## 06 - Justera Grid Layout
 
-Återgå till [Grid Bootcamp](https://github.com/fu-html-css-fe24/exercise-css-grid-bootcamp) från förra veckan. Applicera media queries på dina lösningar så att de även ser bra ut när skärmen krymper ner till mobilstorlek (ca 390px - 450px).
+Återgå till [Grid Bootcamp](https://github.com/fu-html-css-fe25/week-44-exercise-grid-bootcamp) från förra veckan. Applicera media queries på dina lösningar så att de även ser bra ut när skärmen krymper ner till mobilstorlek (ca 390px - 450px).
