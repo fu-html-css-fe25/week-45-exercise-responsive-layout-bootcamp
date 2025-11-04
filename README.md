@@ -24,7 +24,7 @@ Inuti din wrapper skapar du ytterligare ett section-element innehållandes 10 st
 
 Denna gång använder du förslagsvis återigen grid för att styra layouten, men istället för "hack-regeln" till grid template-columns, så justerar du med media queries exakt hur många kolumner din grid för bestå av. På fullskärm skall det vara 4, och sedan lägger du på media queries hela vägen ner till 1 kolumn.
 
-## 05 - Media queries Bootcamp - Veckans Code Review Uppgift
+## 05 - Media queries Bootcamp
 
 Media Queries Bootcamp [hittar du här](https://github.com/fu-html-css-fe25/week-45-exercise-media-queries-bootcamp).
 
